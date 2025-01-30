@@ -32,9 +32,10 @@ Map Planner uses location services to:
 ### Storage Permissions
 Map Planner requests storage access to:
 * Save user-generated travel paths and field records
-* Import and manage geospatial files (GeoTIFF, PNG)
+* Import and manage geospatial project files (GeoTIFF, ZIP files)
 * Export field documentation and travel logs
-* Enable seamless sharing of user-created content
+* Enable seamless sharing of user-created content via zipped project files
+
 
 #### Storage Data Handling
 * Users control all data import, export, and sharing processes
