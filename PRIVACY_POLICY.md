@@ -1,5 +1,5 @@
 # Map Planner Privacy Policy
-**Last Updated:** 2024-11-26
+**Last Updated:** 2025-2-5
 
 ## Permissions and Data Usage
 
@@ -17,11 +17,18 @@ Map Planner utilizes camera functionality to:
 * No automatic transmission or storage of images to external servers
 
 ### Location Permissions
-Map Planner uses location services to:
-* Track and record user travel paths in real-time
-* Ensure comprehensive field coverage
-* Generate accurate geospatial tracking and mapping
-* Provide precise location context for field documentation
+Map Planner requires Precise Location to:
+* Support geospatial tracking and field documentation
+* Enable real-time path tracking and navigation
+* Ensure accurate field boundary mapping
+* Optimize resource planning and deployment
+* Improve location-based analytics for better decision-making
+Approximate Location is not supported, and selecting it may cause the tracking function to not work as expected.
+Users can grant location access based on their preference:
+* While using the app (recommended for continuous tracking)
+* Only this time (for temporary location use)
+* Don’t allow (disables location-based features, making the app non-functional)
+
 
 #### Location Data Management
 * Location tracking is active only during active app usage
