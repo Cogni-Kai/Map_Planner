@@ -23,7 +23,9 @@ Map Planner requires Precise Location to:
 * Ensure accurate field boundary mapping
 * Optimize resource planning and deployment
 * Improve location-based analytics for better decision-making
+
 Approximate Location is not supported, and selecting it may cause the tracking function to not work as expected.
+
 Users can grant location access based on their preference:
 * While using the app (recommended for continuous tracking)
 * Only this time (for temporary location use)
